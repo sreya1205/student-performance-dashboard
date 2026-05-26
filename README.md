@@ -150,19 +150,6 @@ If you'd like to improve this dashboard:
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-**Your Name**  
-Data Analyst | Dashboard Developer
-
----
-
 # ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
